@@ -24,4 +24,6 @@ The primary goals of this dashboard were to:
 	•	Technology products show strong order volume.
 	•	Standard shipping dominates total orders.
 	•	Profit varies significantly across global markets.
+## Preview
+![Dashboard Screenshot](https://github.com/Purewe10/Perpetual-Chidinma-Theresa/commit/53edf5a74b3dcfc8792aff7f46b78e3eaaa091ab)
 
